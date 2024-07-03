@@ -1,3 +1,0 @@
-2.0.2 (2024.06.11)
-
-* utvidet instruks om programfunksjonalitet

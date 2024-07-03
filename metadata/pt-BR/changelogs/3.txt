@@ -1,3 +1,0 @@
-2.0.1 (2024.06.03)
-
-* Adição de uma nota sobre a otimização da bateria
